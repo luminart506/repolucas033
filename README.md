@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repolucas033", e instalar <a href="repository.repolucas033.zip">repository.repolucas033.zip</a>.</li>
     -
-    <li>Repositório Instalado!</li>
+    <li>Repositório Instalado!!</li>
     
 </ul>
 
